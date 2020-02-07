@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bsitcabua.netlify.com
+Token: f85258447244c082bb0d6ad30dc2a3e3e47764d7077e60b081d3f6792af42ca6
